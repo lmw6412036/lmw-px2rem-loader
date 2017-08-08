@@ -1,6 +1,6 @@
 {
   "name": "lmw-px2rem-loader",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "px2rem webpack",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/lmw6412036/lmw-px2rem-loader/issues"
   },
-  "homepage": "https://github.com/lmw6412036/lmw-px2rem-loader#readme"
+  "homepage": "https://github.com/lmw6412036/lmw-px2rem-loader#readme",
+  "dependencies": {
+    "js-data-type": "^1.0.5",
+    "loader-utils": "^1.1.0",
+    "px2rem": "^0.5.0"
+  }
 }
