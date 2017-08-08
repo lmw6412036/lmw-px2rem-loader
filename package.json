@@ -1,0 +1,19 @@
+{
+  "name": "lmw-px2rem-loader",
+  "version": "1.0.0",
+  "description": "px2rem webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmw6412036/lmw-px2rem-loader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmw6412036/lmw-px2rem-loader/issues"
+  },
+  "homepage": "https://github.com/lmw6412036/lmw-px2rem-loader#readme"
+}
